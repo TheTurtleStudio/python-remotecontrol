@@ -1,0 +1,9 @@
+{
+    "server": {
+        "methodsURL": ""
+    },
+
+    "client": {
+        "serverIP": "192.168.0.58"
+    }
+}
